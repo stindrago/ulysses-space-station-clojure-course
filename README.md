@@ -10,9 +10,9 @@ Each lecture is an exercise that you have to complete. View it like the quest th
 
 To complete a lecture you have to read the instructions inside the `README.md`. The code goes in the `src/` directory, the files are already created four you with some code already present.
 
-This course uses unit testing to verify the correctness of the exercise. Run `clj -X:test` after you completed the exercise's instructions and verify there are no errors before continuing the adventure.
+This course uses unit testing to verify the correctness of the exercise. Run `clj -X:test` after you completed the exercise's instructions. For the test to pass it requires _0 failures_ and _0 errors_.
 
-For this course you need the _Java JDK_, _Clojure Tools_, _git_, your favorite editor and some snacks.
+For this course you need: _Java JDK_, _Clojure Tools_, _git_, your favorite editor and some snacks.
 
 ## Installing Clojure
 
