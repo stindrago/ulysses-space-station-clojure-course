@@ -2,6 +2,12 @@
 
 Available as a video course on [YouTube][stindrago-youtube] under the form of an adventure.
 
+# Lectures
+
+- Introduction: [Video][lecture-introduction]
+- Lecture 1 - Hello Adam: [Video][lecture-1-video], [resources][lecture-1-resources]
+- Lecture 2 - Application Form Error: [Video][lecture-2-video], [resources][lecture-2-resources]
+
 ## About
 
 In this course you are going to learn [Clojure][clojure-site] by doing, with a bit of storytelling.
@@ -16,7 +22,7 @@ For this course you need: _Java JDK_, _Clojure Tools_, _git_, your favorite edit
 
 ## Installing Clojure
 
-Clojure provides command line tools that can be used to start a Clojure program and the REPL. See the official [getting started][clojure-getting-started] documentation on how to install the tools on your machine.
+Clojure provides command line tools that can be used to start a Clojure program and the REPL. See the [official documentation][install-clojure] on how to install the required tools on your machine.
 
 ## Editor
 
@@ -69,9 +75,14 @@ Maybe in the future I will try to upload them.
 
 © 2022 stindrago [Creative Commons BY-SA][cc-by-sa]
 
+[lecture-introduction]: #
+[lecture-1-resources]: hello-adam/
+[lecture-1-video]: #
+[lecture-2resources]: application-form-error/
+[lecture-2-video]: #
 [stindrago-youtube]: https://www.youtube.com/channel/UCAEekFrLX504AZaXeqmE9Wg
 [clojure-site]: https://clojure.org
-[clojure-getting-started]: https://clojure.org/guides/getting_started
+[install-clojure]: https://clojure.org/guides/install_clojure
 [clojure-tools]: https://clojure.org/community/tools
 [doom-emacs]: https://github.com/doomemacs/doomemacs
 [emacs]: https://www.gnu.org/software/emacs/
