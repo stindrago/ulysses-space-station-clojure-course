@@ -8,7 +8,7 @@ In this course you are going to learn [Clojure][clojure-site] by doing, with a b
 
 Each lecture is an exercise that you have to complete. View it like the quest that the protagonist in the story has to finish to continue his journey.
 
-To complete a lecture you have to read the instructions inside the _README.md_. The code goes in the _src/_ directory, the files are already created four you with some code already present.
+To complete a lecture you have to read the instructions inside the `README.md`. The code goes in the `src/` directory, the files are already created four you with some code already present.
 
 This course uses unit testing to verify the correctness of the exercise. Run `clj -X:test` after you completed the exercise's instructions and verify there are no errors before continuing the adventure.
 
@@ -41,13 +41,13 @@ hello-adam
     └── hello_adam_test.clj
 ```
 
-- _HELP.md_, if you need help running the tests.
-- _HINTS.md_, if you get stuck on the exercise, but try and solve it without using those first.
-- _README.md_, the story and the instructions to complete the exercise.
-- _SOLUTION.md_, if you passed all the tests, try figuring out how this solution is different than yours.
-- _deps.edn_, the configuration file for the [Clojure Tools][clojure-deps-and-cli].
-- _src/_, the directory with the source files. Your code goes here.
-- _test/_, the directory of the unit tests. Do not worry about this.
+- `HELP.md`, if you need help running the tests.
+- `HINTS.md`, if you get stuck on the exercise, but try and solve it without using those first.
+- `README.md`, the story and the instructions to complete the exercise.
+- `SOLUTION.md`, if you passed all the tests, try figuring out how this solution is different than yours.
+- `deps.edn`, the configuration file for the [Clojure Tools][clojure-deps-and-cli].
+- `src/`, the directory with the source files. Your code goes here.
+- `test/`, the directory of the unit tests. Do not worry about this.
 
 ## Recommended Learning Resources
 
