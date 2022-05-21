@@ -78,7 +78,7 @@ Maybe in the future I will try to upload them.
 [lecture-introduction]: #
 [lecture-1-resources]: hello-adam/
 [lecture-1-video]: #
-[lecture-2resources]: application-form-error/
+[lecture-2-resources]: application-form-error/
 [lecture-2-video]: #
 [stindrago-youtube]: https://www.youtube.com/channel/UCAEekFrLX504AZaXeqmE9Wg
 [clojure-site]: https://clojure.org
